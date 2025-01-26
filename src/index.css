@@ -1,5 +1,16 @@
 *{
-  marggin: 0;
-  padding: 0;
-  
+  marggin: 0px;
+  padding: 0px; 
+}
+
+.body{
+  z-index: 999em;
+}
+
+.form{
+  margin: 10px;
+}
+
+.selector-for-some-widget{
+  box-sizing: content-box;
 }
